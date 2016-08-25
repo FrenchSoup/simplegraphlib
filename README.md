@@ -1,2 +1,2 @@
 # simplegraphlib
-Simple c++ library for graph manipulation. For educational purposes.
+Simple c++ library for graph manipulation with OpenMP. For educational purposes only.
